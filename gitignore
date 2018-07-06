@@ -1,0 +1,35 @@
+# =============== #
+# Unity generated #
+# =============== #
+/FuseJamSoundboard/[Tt]emp/
+/FuseJamSoundboard/[Oo]bj/
+/FuseJamSoundboard/[Bb]uilds/
+/FuseJamSoundboard/[Ll]ibrary/
+/FuseJamSoundboard/sysinfo.txt
+/FuseJamSoundboard/*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+/FuseJamSoundboard/[Ee]xported[Oo]bj/
+/FuseJamSoundboard/.vs/
+/FuseJamSoundboard/*.userprefs
+/FuseJamSoundboard/*.csproj
+/FuseJamSoundboard/*.pidb
+/FuseJamSoundboard/*.suo
+/FuseJamSoundboard/*.sln*
+/FuseJamSoundboard/*.user
+/FuseJamSoundboard/*.unityproj
+/FuseJamSoundboard/*.booproj
+/FuseJamSoundboard/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
